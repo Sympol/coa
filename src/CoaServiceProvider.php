@@ -2,8 +2,8 @@
 
 namespace Africode\Coa;
 
-use Illuminate\Support\ServiceProvider;
 use Africode\Coa\Commands\CoaCommand;
+use Illuminate\Support\ServiceProvider;
 
 class CoaServiceProvider extends ServiceProvider
 {

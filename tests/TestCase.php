@@ -2,9 +2,9 @@
 
 namespace Africode\Chart\Tests;
 
+use Africode\Chart\ChartServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Africode\Chart\ChartServiceProvider;
 
 class TestCase extends Orchestra
 {
